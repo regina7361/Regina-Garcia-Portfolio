@@ -252,4 +252,8 @@ input[type=submit] {
     {
         width: 100%;
     }
+    .sidebar
+    {
+        float: left;
+    }
 }
